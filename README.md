@@ -4,7 +4,7 @@
    npm start
    
 #backend
-  cd backend
+  cd backend 
   npm install
   nodemon server.js
 
